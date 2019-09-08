@@ -1,7 +1,7 @@
 # VertexRain
   
 製作環境　：　ShaderLab  
-対応環境　：　全プラットフォーム (buildtarget 2.0)
+対応環境　：　全プラットフォーム (buildtarget 2.0)  
 概要　：  
 頂点変形による降雨表現のサンプル
 
